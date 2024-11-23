@@ -39,7 +39,7 @@ public class Main2 {
 //        return sum;
 //    }
 
-        System.out.println(toStr(254, 2));
+//        System.out.println(toStr(254, 2));
         System.out.println(toStr(254, 8));
         System.out.println(toStr(254, 10));
         System.out.println(toStr(254, 16));
